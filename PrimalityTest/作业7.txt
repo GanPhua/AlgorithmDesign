@@ -1,0 +1,6 @@
+附件中代码文件：
+PTEST_General.cpp 一般的试除法
+PTEST_General_Recoder.cpp一般的试除法改进避免重复
+PTEST_Sieve.cpp 筛选法
+PTEST_Modify_Sieve.cpp 最小素因子的筛选法
+PTEST_MiillerTest.cpp 带随机的Miiller素性测试
